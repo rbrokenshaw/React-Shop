@@ -1,6 +1,6 @@
 <h1>React Shop</h2>
 
-<p>A simple shop application allowing the sale of art prints. Customers may select the size required, and the price is adjusted according to the size selected. Products can be added to a shopping cart, where the total price is displayed to the customer.</p>>
+<p>A simple shop application allowing the sale of art prints. Customers may select the size required, and the price is adjusted according to the size selected. Products can be added to a shopping cart, where the total price is displayed to the customer.</p>
 
 <h2>Tech Stack</h2>
 <ul>
